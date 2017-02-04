@@ -1,3 +1,5 @@
 *.pyc
+rango/*.pyc
+tango_with_django/*.pyc
 *.db
 .idea/
